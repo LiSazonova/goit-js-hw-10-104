@@ -4,6 +4,15 @@ body {
     padding: 36px 156px;
 }
 
+.link {
+    border-radius: 8px;
+    font-size: 20px;
+    line-height: 1em;
+    padding: 7px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 #datetime-picker {
     font-size: 16px;
     line-height: 24px;
